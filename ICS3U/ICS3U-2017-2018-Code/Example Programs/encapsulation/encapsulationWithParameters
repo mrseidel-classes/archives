@@ -1,0 +1,44 @@
+void settings() { 
+  size(300, 300);
+}
+void setup() {
+}
+void draw() {
+  background(0);
+  float t = mapMouse();
+  drawTemperatureBar(t);
+}
+
+//Draws the temperature bar and
+//draws a line based on the parameter temp
+void drawTemperatureBar(float temperature) {
+  textAlign(RIGHT);
+  float barMin = width * 1/8;
+  float barMax = barMin * 7;
+  text("-100°C", barMin, height * 7/8);
+  float temperatureBarPlacement = map(temperature, -100, 100, barMin, barMax);
+
+  for (int i = int(barMin); i < int(barMax); i++) {
+    float b = map(i, barMin, barMax, 0, 255);
+    stroke(b, 0, 255 - b);
+    line(i, height * 6.5/8, i, height * 6.8/8);
+  }
+
+  textAlign(LEFT);
+  text("100°C", barMax, height * 7/8);
+
+  stroke(255);
+  strokeWeight(5);
+  line(temperatureBarPlacement, height * 7/8 - 75, temperatureBarPlacement, height * 7/8 - 25);
+}
+
+// This function maps the mouse to the temperature gauge
+// Returns the modified value of the mouseX position
+float mapMouse() {
+  return map(mouseX, 0, width, -100, 100);
+}
+
+float addition(float x, float y) {
+  float c = x + y;
+  return c;
+}
