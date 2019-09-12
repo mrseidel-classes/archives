@@ -1,10 +1,9 @@
 **The culminating is worth 30% of your final mark.**
 
-Task(s)
--------
+# Task(s)
 
 
-###Part 1
+### Part 1
 
 The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in class on May 25 by the teacher to you and your ICS 3C and 3U peers. 
 
@@ -70,7 +69,7 @@ print list2
 ```
 
 
-###Part 2
+### Part 2
 
 
 Write a reflection paper about your process in Part 1. In fewer than 200 words total, respond to **all** the following:
@@ -80,7 +79,7 @@ Write a reflection paper about your process in Part 1. In fewer than 200 words t
   3. Discuss some of the planning and debugging strategies you used to overcome challenges when writing your programs.
 
 
-###Part 3
+### Part 3
 
 In fewer than 300 words total, respond to **all** of the following:
 
@@ -90,18 +89,17 @@ In fewer than 300 words total, respond to **all** of the following:
   4. Name two negative effects of computer use on human health. Select one of the negative effects and explain what you can do to avoid it. 
 
 	
-###Submissables
+### Submissables
 
 Hand in your programs and written responses to the /IN folder.
 
 
-###Due Date(s)
+### Due Date(s)
 
 All three parts of the culminating are due on June 17th, 2016 by 4:00 PM.
 
 
-Rubric and Expectations
------------------------
+# Rubric and Expectations
 
 The rubric below will be used to evaluate part 1.
 
