@@ -16,7 +16,7 @@
 - Appliance Robots
 - Augmented Reality (No Google Glass)
 - Swarm Robotics
-- Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
+- Other: Teacher approved topics - check [here](http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
 # Rubric(s) and Expectations
 This rubric is out of a total of 28
