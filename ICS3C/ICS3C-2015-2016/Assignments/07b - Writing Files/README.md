@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 The syntax for writing to files is very similar to that of reading files. Compare the two pieces of code below.
 
 ```python
@@ -87,10 +86,8 @@ The code above will give the following output:
 
 * Create a program that reads in 'mysteryText.txt' and writes its content to 'mysteryTextDecoded.txt' while replacing every character with its subsequent ASCII character. For example, every 'a' changes to 'b', every '#' changes to '$', and every 'z' changes to '{'. Save this file as 'wFiles004.py'.
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work on May 16, 2016, to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 The due date for this assignment is May 16th, 2016.
