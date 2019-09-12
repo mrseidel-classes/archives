@@ -1,19 +1,15 @@
-Task(s)
--------
-* Using your knowledge of programming and if statements you will recreate the sketch found in the folder OUT\Seidel\ICS2O\assignment_One
+# Task(s)
+* Using your knowledge of programming and if statements you will recreate the sketch found in the folder OUT drive.
 * The entire sketch is to be completed using only **arc()**, **ellipse()**, and one **line** for your shapes.  
 
 
-Submissables
-------------
+# Submissables
 See your teacher for where to hand in your work
 
-Due Date(s)
-----------
+# Due Date(s)
 See your teacher for due dates
 
-Rubric(s)
----------
+# Rubric(s)
 **(Your teacher might have a different rubric for this project - see your teacher to see if this rubric applies to you)**
 This rubric is out of a total of 40
 
