@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Create a text document and answer the below in bullet point format (**not** full sentences).  You are to complete this on your own.  *Cite any of your sources*.  Do **not** use Wikipedia as a source, but it is a good place to start your search.
 
 1. Describe various methods of sharing network resources (files, printers, internet, etc.)
@@ -18,13 +17,11 @@ Answer the following questions by creating a visual representation of what is be
 11. Complete a diagram of a sample home networking set up that includes all hardware connected to it.  In the diagram, you must include at least 2 wired and 2 wireless connections to various devices.
 12. Create a timeline of how the internet has developed from when it started until today.  Include any major events and milestones in your timeline.  Include visual elements!
 
-Due Date(s)
------------
+# Due Date(s)
 February 12th by end of class
 
 
-Rubric(s)
----------
+# Rubric(s)
 Questions 1-10 are worth 1 mark.
 Questions 11-12 are worth 4 marks each (level-based).
 
