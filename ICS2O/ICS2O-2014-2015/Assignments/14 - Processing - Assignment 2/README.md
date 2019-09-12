@@ -1,20 +1,16 @@
-Task(s)
--------
+# Task(s)
 
-* Using your knowledge of programming, if statements, and FOR loops you will recreate the sketch found in **S: | OUT | SEIDEL | ICS2O | assignment_Two** folder. (double click the assignment_Two.bat file to run it).
+* Using your knowledge of programming, if statements, and FOR loops you will recreate the sketch found in the OUT drive.
 * The sketch will reset or change depending on whether you **LEFT-CLICK** or **RIGHT-CLICK** the mouse.
 * **Use the template file provided** (above)
 
-Submissables
-------------
+# Submissables
 See your teacher for where to hand in your work
 
-Due Date(s)
-----------
+# Due Date(s)
 See your teacher for due dates
 
-Rubric(s)
----------
+# Rubric(s)
 **(Your teacher might have a different rubric for this project - see your teacher to see if this rubric applies to you)**
 
 This rubric is out of a total of 36
