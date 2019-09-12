@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 1. Update Wing IDE to use Python 2.7 as demonstrated in class
 2. Using Wing IDE, create a Python program that prints out your name on the screen.
 3. Save the program in your student drive as "HelloWorld.py"
@@ -19,10 +18,8 @@ print 5*10
 print '5' * 10
 ```
 
-Submissables
-------------
+# Submissables
 Do **not** submit this work - ensure your teacher sees your work though.
 
-Due Date(s)
-----------
+# Due Date(s)
 This work will assume to be completed by February 20th
