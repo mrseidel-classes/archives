@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 1. Choose a college program in Canada related to computer studies. Write about the program as if you were describing the program to a classmate in your ICS 3C class. Discuss the following information:
   1. The entrance requirements for the program.
   2. Some of the compulsory courses in the program.
@@ -15,13 +14,11 @@ Task(s)
 You are limited to **100 words for each of the tasks** (200 words total). Separately, include your sources, cited in APA or MLA format.
 
 
-Submissables
-------------
+# Submissables
 All documents must be submitted by **11:00 AM on May 26** to the /IN folder. This includes your two responses and the citations. Your teacher will mark your submissions outside of class time.
 
 
-Rubric(s)
----------
+# Rubric(s)
 
 Task 1 will be evaluated using the following rubric.
 
