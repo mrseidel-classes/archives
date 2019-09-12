@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 1. As a group (groups will be assigned per teacher discretion), research the given Hardware Part
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
@@ -15,11 +14,9 @@ Task(s)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives
 10. Cases, Cabling, Fans, Heatsinks, Watercooling
 
-Presentation Schedule
-------------------
+# Presentation Schedule
 See your teacher for a presentation schedule
 
-Rubric(s)
----------
+# Rubric(s)
 Your teacher might use a different rubric than the one below - please see your teacher for clarification
 [Presentation Rubric](http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
