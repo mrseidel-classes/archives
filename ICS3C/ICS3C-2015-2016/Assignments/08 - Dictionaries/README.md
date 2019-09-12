@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Dictionaries are used to store and quickly look up "pairs" of information.
 
 For example, we could store a grocery list like this.
@@ -99,10 +98,8 @@ numberOfChars('potato')
 >>>{'p':1, 'o':2, 't':2, 'a':1}  #The order of the key:value pairs may be different
 ```
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section. Your teacher will choose at least one of the programs to evaluate. There will also be a quiz/test on this section of work on May 20, 2016, to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 The due date for this assignment is May 20th, 2016.
