@@ -1,9 +1,8 @@
-Task(s)
--------
+# Task(s)
 
 Create a program that displays your first name on the screen that shows your understanding of all of the Processing concepts you learned up to this point in the year.
 
-See the example in the **OUT | SEIDEL | ICS2O | ASSIGNMENT 3** folder.
+See the example in the OUT drive.
 
 Concepts Taught
 ---------------
@@ -18,16 +17,13 @@ Concepts Taught
 * boolean expressions
 * _any other concepts you learned along the way that were not taught can be included.  If you are using something that was **not** taught in class, be prepared to explain it in a conversation with your teacher_
 
-Submissables
-------------
+# Submissables
 See your teacher for where to hand in your work
 
-Due Date(s)
-----------
+# Due Date(s)
 See your teacher for due dates
 
-Rubric(s)
----------
+# Rubric(s)
 **(Your teacher might have a different rubric for this assignment - see your teacher to see if this rubric applies to you)**
 
 This rubric is out of a total of 48
