@@ -1,8 +1,7 @@
-Task(s)
--------
+# Task(s)
 The programs you have created up until now tend to do things once, and then shut down.  What if we want to do things multiple times? What if we want to run a program until a certain key is pressed?  This is where an **iterator** comes in.  In Python there are numerous ways to create an iterator.  We will be focusing on two types here; a **while** loop, and a **for** loop.
 
-####While loops
+#### While loops
 Let's take a look at an example quickly to get a feel for what is happening.
 ```python
 n = 5
@@ -28,7 +27,7 @@ print 'The value you entered was ' + str(num)
 
 In the above example, we are forcing the user to enter a number that is between 0 and 100; otherwise, we continue to ask for the number.  Once we have the correct value (the number is between 0 and 100), then we _break_ out of the while loop.
 
-####For loops (also known as Counted Loops)
+#### For loops (also known as Counted Loops)
 Let's take a look a quick example of how a counted loop is set up, and how we can use it.
 ```python
 #Example 1
@@ -79,7 +78,7 @@ From the example ranges above, we can gather the following information from the 
 
 We tend to use counted loops when we know how many times we have to iterate ahead of time.
 
-####Files to create
+#### Files to create
 
 * Modify 'fun001.py' to use _while_ loops to gather both numbers.  Limit both number so that they are between -1000 and 1000.  Save your work as 'iter001.py'.
 * Modify 'fun002.py' to use _while_ loops to ensure the grades are between 0 and 100 before moving on to calculating the average.  Save your work as 'iter002.py'.
@@ -119,10 +118,8 @@ Answer: 5
 Enter a number: ... #loops around back to the top
 ```
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 To be announced in-class as we get closer to completion of the tasks above.
