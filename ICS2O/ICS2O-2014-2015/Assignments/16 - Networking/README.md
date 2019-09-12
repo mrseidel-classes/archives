@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Create a text document and answer the below in _sentence_ format (not bullet points).  You are to complete this on your own.  Cite any of your sources.  Do not use Wikipedia as a source, but it is a good place to start your search.
 
 1. Describe the features and functions of wired and wireless networking hardware
@@ -20,11 +19,9 @@ Answer the following questions by creating a visual representation of what is be
 1. Complete a diagram of a sample home networking set up that includes all hardware connected to it.  In the diagram, you must include at least 2 wired and 2 wireless connections to various devices.
 2. Create a timeline of how the internet has developed from when it started until today.  Include any major events and milestones in your timeline.  Include visual elements!
 
-Due Date(s)
------------
+# Due Date(s)
 See your teacher for due dates
 
 
-Rubric(s)
----------
+# Rubric(s)
 See your teacher for the marking guide.
