@@ -1,8 +1,7 @@
-Task(s)
--------
+# Task(s)
 Complete the following tasks as described (there are multiple).  Each major bullet point is a new program to create:
 
-####Conditionals
+#### Conditionals
 
 Conditional statements are used when there is a comparison required.  For example, if we wanted to compare a variable with certain numerical values, we can see if that number is positive, negative, or has a value of zero.
 
@@ -31,13 +30,11 @@ As you can see in the above example there are multiple ways to compare a value (
 
 * Create a program that takes in five integers between 0 and 100, then outputs the letter value of their **average** grade (A = 80-100, B = 70-79.9, C = 60-69.9, D = 50-59.9, F = any value less than 50).  If the user inputs a value that is outside of the range (less than 0, or greater than 100), have the program output some sort of error message and do not calculate the marks. Save the file as 'if002.py'
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 Assumed completion by March 7th, 2016
 
-#####Credits
+##### Credits
 Some of the work here is based on the work written by Peter Beens found throughout [this website](http://www2.beens.org/ics/python)
