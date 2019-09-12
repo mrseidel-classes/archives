@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Lists are a variable type that can **hold** almost anything as an option.  A list is a single variable that can hold multiple values within them.
 
 ```python
@@ -138,10 +137,8 @@ The _separator_ is a string that is used to separate each item in the list that 
 * Create a program that takes in 10 numbers and then displays a menu of options.  Your menu will have 5 choices to choose from: addition, subtraction, multiplication, sorted in **descending** order, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get a new set of numbers and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'lists005.py'
 * Create a program that reads in 10 pieces of text from the user and then calculate which string is the longest, which string has the most vowels in it, and which string has the most consonants in it.  Have your program display the string associated with each of the calculations.  If there are multiple answers for this, have the program display whichever one you want.  Save this file as 'lists006.py'
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 To be announced in-class as we get closer to completion of the tasks above.
