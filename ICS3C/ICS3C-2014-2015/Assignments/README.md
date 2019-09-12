@@ -1,3 +1,3 @@
-For all file submissions, ensure that your name is part of the filename.
+For all file submissions, ensure that your name is **not** part of the filename.
 
-Do **not** include your student number.
+Do include your student number.
