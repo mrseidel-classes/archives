@@ -1,8 +1,7 @@
-Task(s)
--------
+# Task(s)
 This summative will be in lieu of a quiz/test for the **Files** section of the course.
 
-Run the following program:  **OUT | SEIDEL | ICS3C | FILES SUMMATIVE | runMe.py**
+Run the program found in the OUT drive.
 Afterwards, your task is to complete a full analysis of the text file generated in your G drive.
 
 Your analysis should be able to work for **any** generated text file.  The text file will only contain capital letters, lowercase letters, and the newline character (to create separate lines).
@@ -25,10 +24,8 @@ You will also create a visual representation of the text file in multiple ways:
 3. You will change every capital letter into a space, and every lowercase letter into an 'o' and display the entire text file.
 4. You will change every lowercase letter into a space, and every capital letter into an 'o' and display the entire text file.  
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 Due by June 19th, 2015.  Will be marked in class the following Monday.
