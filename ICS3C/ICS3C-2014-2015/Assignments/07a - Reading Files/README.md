@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Reading files does not take a lot of code to work with; however, there are a few things you have to know to work **safely** with files.
 
 ```python
@@ -62,10 +61,8 @@ print "Number of 'Mrs.' in the file: " + str(mrsCount)
 
 ```
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 To be announced in-class as we get closer to completion of the tasks above.
