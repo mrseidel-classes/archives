@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 1. On your own, research one of the following topics (first come, first serve - 1 person per topic).
 2. Present your findings in any format of your choosing to the teacher only (one-on-one presentation).
 3. You will have to discuss **at least** the following:
@@ -12,34 +11,14 @@ Task(s)
   7. What **negative** environmental impact is there for this technology?
 
 
-###Emerging Technology Topics
+### Emerging Technology Topics
 - Cloudbursting
 - Appliance Robots
 - Augmented Reality (No Google Glass)
 - Swarm Robotics
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
-###Groups
-| Name(s) | Topics |
-|-------|--------|
-| Giuliano | 3D Bio-Printing |
-| Rauridh | Augmented Reality |
-| Sherhyar | Drones |
-| Bhavin | Flying Cars |
-| Jaweria | LiFi |
-
-Presentation Schedule
-------------------
-
-| Date | Topic(s) |
-|-------|--------|
-| February 22nd | Shehryar, Bhavin |
-| February 23rd | Giuliano, Rauridh |
-| February 24th | Jaweria |
-
-
-Rubric(s) and Expectations
---------------------------
+# Rubric(s) and Expectations
 This rubric is out of a total of 28
 
 | | 0 | 1 (limited) | 2 (some) | 3 | 4 (high quality) |
