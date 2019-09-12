@@ -3,7 +3,7 @@ Task(s)
 1. As a group (groups will be assigned per teacher discretion), research the given Hardware Part
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
-###Hardware Parts
+### Hardware Parts
 1. Motherboard 
 2. CPU 
 3. RAM, ROM and general memory 
@@ -22,4 +22,4 @@ See your teacher for a presentation schedule
 Rubric(s)
 ---------
 Your teacher might use a different rubric than the one below - please see your teacher for clarification
-[Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
+[Presentation Rubric](http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
