@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 You have been using functions the majority of the time in this course already.  A function is a grouping of similar tasks, a single calculation, or a single task on it's own.  You have been using the following functions for the previous assignments.
 
 ```python
@@ -51,10 +50,8 @@ print 'The volume of the box is: ' + str(volumeOfABox(a, b, c)) + ' units'
 * Modify 'fun004.py' so that you enter Fahrenheit, and your function converts the value into Celsius instead. Save the file as 'fun005.py'
 
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 To be announced in-class as we get closer to completion of the tasks above.
