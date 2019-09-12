@@ -1,5 +1,4 @@
-Task(s)
--------
+# Task(s)
 Strings are a variable type that can take in almost anything as an option.  You have been using them in your code all over the place - mainly when you print out information to the console.
 
 Now, we are going to bring in information and play around with the text that is given.  One of the **important** things to note about strings is that they are a list characters.  We are going to use that to our advantage as we go step by step through building a program that will read in and analyze a bunch of text given by the user.
@@ -93,10 +92,8 @@ print 'The number of times "ei" showed up is: ' + str(countEI)
 * Create a program that takes in a string and then displays a menu of options.  Your menu will have 5 choices to choose from: lowercase, uppercase, count vowels, count consonants, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get a new string and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'string005.py'
 * Create a program that reads in text from the user and counts how many "double vowels" there are in the string entered.  For example, any "ea", or "ei", or "ou", etc. would count towards the total.  Save this file as 'string006.py'
 
-Submissables
-------------
+# Submissables
 Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work to ensure understanding.
 
-Due Date(s)
-----------
+# Due Date(s)
 Assumed completion by April 6th, 2016
