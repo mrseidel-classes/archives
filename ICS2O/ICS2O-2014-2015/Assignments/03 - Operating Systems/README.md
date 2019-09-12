@@ -1,5 +1,5 @@
-Task(s)
--------
+# Task(s)
+
 1. As a group (groups randomly chosen), research the given Operating System
 2. Create a presentation regarding your Operating System (5-10 minutes).
 3. Within your presentation you must answer the following questions about it:
@@ -12,7 +12,7 @@ Task(s)
   7. What would you use the operating system for?
   8. What aspects of your life would it be useful for?
 
-###Operating Systems
+### Operating Systems
 1. Windows
 2. Mac OS 
 3. Puppy Linux 
@@ -23,11 +23,9 @@ Task(s)
 8. Mageia 
 9. Java ME 
 
-Presentation Schedule
-------------------
+# Presentation Schedule
 See your teacher for presentation scheduling
 
-Rubric(s)
----------
+# Rubric(s)
 Your teacher might use a different rubric than below - see your teacher for clarification
-[Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
+[Presentation Rubric](http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
