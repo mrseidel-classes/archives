@@ -15,12 +15,16 @@ Continuing on your [Main Program](./Main-Program) voyage, it is your task to:
 * Create your own ```bubble sort``` and ```selection sort``` algorithms and implement them into your [Main Program](./Main-Program).  These sorts should be sorting through your [Files](./Files) array/list.
 * If you don't have a large amount of data, you are to create a separate file for this project that incorporates 5MB of data or more (related to your program).
 * Sort the data and display it in some way.
-* Complete a computational complexity analysis of each of your own sorting algorithms and also compare it to the built-in ```.sort()``` function (figure out which one runs faster, why, when, etc.)
+* Complete a computational complexity analysis of each of your own sorting algorithms and also compare it to the built-in ```.sort()``` function (figure out which one runs faster, why, when, etc.).  You can leave this as a comment at the bottom of one of the files you complete your sorting in.
 * Once this task is complete, comment out your own sorts and use the built-in ```.sort()``` going forward.
+* Watch this [YouTube video](https://www.youtube.com/watch?v=kPRA0W1kECg) (you will need sounds, make sure the volume is low).  Leave a comment after your computational complexity analysis that reflects on this video:
+  * What do you notice about the searches that have the thin bars vs. those with the thicker bars?
+  * Why would someone make this video?
+  * How could this video be skewed to show something that is incorrect?
 
 ### Searching Task(s):
 * Create your own ```linear search``` and ```binary search``` algorithms and implement them into your [Main Program](./Main-Program).  These searches should be searching through the sorted [Files](./Files) array/list.
-* Complete a computational complexity analysis of each of the searching algorithms.  One part of this analysis should include a comparison between using ```linear search``` and using ```binary search``` + ```.sort()```.
+* Complete a computational complexity analysis of each of the searching algorithms.  One part of this analysis should include a comparison between using ```linear search``` and using ```binary search``` + ```.sort()```.  You can leave this as a comment at the bottom of one of the files you complete your searching in.
 
 ### General Task(s):
 * Update your internal documentation, flowchart, and UML diagrams to include the sorting/searching work. (This won't be checked now, but will be when the [Programming Culminating](./Programming-Culminating) is due, so you might as well do it now while you remember.
