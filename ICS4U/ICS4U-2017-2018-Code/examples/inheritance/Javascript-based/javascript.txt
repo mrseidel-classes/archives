@@ -1,0 +1,63 @@
+/**
+ * This function creates a Book object (modified from https://thimble.mozilla.org/en-US/anonymous/1dbb9564-0bc8-4a2e-94e8-ba6f6690fb69/304196)
+ * 
+ * @param author - This is the initial author (will be a private instance variable)
+ * @param title - This is the initial title of the book (will be a private instance variable)
+ *
+ * @return the object that contains the information and functions for this Book object
+ */
+var Book = function(author,title){
+  var that = {};
+  var price = 5.00;
+  
+  /**
+   * Prints out the author of the book
+   */
+  that.printAuthor = function(){
+    document.writeln(author);
+  }
+
+  /**
+   * Prints out the author of the book
+   */
+  that.printTitle = function(){
+    document.writeln(title);
+  }
+
+  /**
+   * Prints out the author of the book
+   */
+  that.printPrice = function(){
+    document.writeln(price);
+  }
+
+  /**
+   * Prints out the author of the book
+   */
+  that.increasePrice = function(){
+    price=price + 1.00;
+  }
+
+  return that;
+}
+
+/**
+ * Function used to test the creation of objects
+ */
+function testing(){
+  var a = Book("Terry Pratchett", "Guards! Guards!");
+  var b = Book("Robert Jordan", "The Eye of the World");
+  a.printAuthor();
+  a.printPrice();
+  a.increasePrice();
+  a.increasePrice();
+  a.increasePrice();
+  a.printPrice();
+  
+  b.printAuthor();
+  b.printPrice();
+  b.increasePrice();
+  b.printPrice();
+}
+
+testing();
