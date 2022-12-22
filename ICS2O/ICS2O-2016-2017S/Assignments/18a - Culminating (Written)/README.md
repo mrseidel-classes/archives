@@ -22,34 +22,34 @@ Include sources at the bottom of each webpage as necessary (APA, MLA or Chicago 
 
 | Name      | Number |
 | --------- | ------ |
-| Ajay      | 26     |
-| Amanjjot  | 14     |
-| Aqdas     | 16     |
-| Bowen     | 12     |
-| Caleb     | 13     |
-| David 'n' | 22     |
-| David 'g' | 6      |
-| Fares     | 23     |
-| Hala      | 17     |
-| Hao Miao  | 5      |
-| Jason     | 28     |
-| Jaweria   | 7      |
-| Kshitija  | 8      |
-| Maha      | 19     |
-| Marwan    | 11     |
-| Matthew   | 20     |
-| Nisarg    | 25     |
-| Nithilan  | 24     |
-| Paul      | 2      |
-| Sachin    | 15     |
-| Shama     | 3      |
-| Sota      | 4      |
-| Syed      | 21     |
-| Tahira    | 27     |
-| Tim       | 18     |
-| Yaman     | 10     |
-| Youngwoo  | 9      |
-| Zihao     | 1      |
+|  | 26     |
+|  | 14     |
+|  | 16     |
+|  | 12     |
+|  | 13     |
+|  | 22     |
+|  | 6      |
+|  | 23     |
+|  | 17     |
+|  | 5      |
+|  | 28     |
+|  | 7      |
+|  | 8      |
+|  | 19     |
+|  | 11     |
+|  | 20     |
+|  | 25     |
+|  | 24     |
+|  | 2      |
+|  | 15     |
+|  | 3      |
+|  | 4      |
+|  | 21     |
+|  | 27     |
+|  | 18     |
+|  | 10     |
+|  | 9      |
+|  | 1      |
 
 
 Criteria
